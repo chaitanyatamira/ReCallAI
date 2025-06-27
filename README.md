@@ -1,3 +1,3 @@
-# ReCallAI-
+# ReCallAI
 Memory Coach
 
